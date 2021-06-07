@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "online": "^0.0.1",
+    "redis": "^3.1.2"
+  }
+}
